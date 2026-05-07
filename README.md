@@ -14,3 +14,11 @@ Understanding the Principle of Least Privilege in network security.
 Implementing Stateful Packet Inspection to manage established connections.  
 
 Using diagnostic tools like Nmap, Curl, and Ping to verify firewall integrity. 
+
+
+
+🛠️ Tools
+
+Ubuntu Server 22.04 LTS.  
+Firewalls: UFW (Frontend) & iptables (Kernel-level).  
+Scanning/Testing: Nmap
